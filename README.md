@@ -9,3 +9,4 @@ https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specifi
 https://wiki.python.org/moin/HandlingExceptions
 http://docs.tweepy.org/en/v3.8.0/api.html
 https://stackoverflow.com/questions/21308762/avoid-twitter-api-limitation-with-tweepy
+https://www.marsja.se/how-to-read-and-write-json-files-using-python-and-pandas/
