@@ -1,5 +1,4 @@
-# Data_Wrangling
-*Work in progress*
+# Data_Wrangling (*Work in progress*)
 Introduction
 
 References:
