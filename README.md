@@ -1,4 +1,4 @@
-# Data_Wrangling (*Work in progress*)
+# Data_Wrangling
 Introduction
 
 The goal of the project is conduct data analysis and visualisation by wrangling data from Twitter user ’WeRateDogs’. With Twitter archive in hand, the objective is to gather comprehensive data to supplement the archive, which contains basic tweet information, to begin and complete data analysis on the data. The data will be assessed on its tidiness and quality and cleaned effectively before developing a visual.
