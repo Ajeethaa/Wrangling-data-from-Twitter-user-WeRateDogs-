@@ -1,6 +1,4 @@
-# Wrangling data from Twitter user ’WeRateDogs’  
-
-## __Introduction__
+# __Introduction__
 
 The goal of the project is conduct data analysis and visualisation by wrangling data from Twitter user ’WeRateDogs’. With Twitter archive in hand, the objective is to gather comprehensive data to supplement the archive, which contains basic tweet information, to begin and complete data analysis on the data. The data will be assessed on its tidiness and quality and cleaned effectively before developing a visual.
 
@@ -12,12 +10,12 @@ For this project, there is a neural network from Udacity showcasing tweet image 
 
 All data obtained here was amalgamated for an easy review.
 
-## __References:__
+# __References:__
 
-https://www.tutorialspoint.com/python_pandas/python_pandas_series.htm  
-https://twython.readthedocs.io/en/latest/  
-https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specific-id  
-https://wiki.python.org/moin/HandlingExceptions  
-http://docs.tweepy.org/en/v3.8.0/api.html  
-https://stackoverflow.com/questions/21308762/avoid-twitter-api-limitation-with-tweepy  
-https://www.marsja.se/how-to-read-and-write-json-files-using-python-and-pandas/
+- https://www.tutorialspoint.com/python_pandas/python_pandas_series.htm  
+- https://twython.readthedocs.io/en/latest/  
+- https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specific-id  
+- https://wiki.python.org/moin/HandlingExceptions  
+- http://docs.tweepy.org/en/v3.8.0/api.html  
+- https://stackoverflow.com/questions/21308762/avoid-twitter-api-limitation-with-tweepy  
+- https://www.marsja.se/how-to-read-and-write-json-files-using-python-and-pandas/
