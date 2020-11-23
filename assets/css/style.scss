@@ -15,8 +15,12 @@ h1 {
 p {
   color: black;
 }
+  
+}
 
-ul.list{
-    margin-left: 20px;
+ul {
+list-style-position:inside;
+list-style: circle;
+margin-left: 20px;
     color: black;
 }
