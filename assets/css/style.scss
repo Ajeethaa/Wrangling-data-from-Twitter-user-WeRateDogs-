@@ -19,6 +19,11 @@ p {
 ul {
 list-style-position:inside;
 list-style: square;
-margin-left: 10px;
+margin-left: 5px;
     color: black;
+}
+
+li span {
+  position: relative;
+  left: -5px;
 }
