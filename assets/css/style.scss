@@ -16,14 +16,7 @@ p {
   color: black;
 }
 
-li {
-  color: black;
-}
-
-li {
-  list-style-type: square;
-}
-
-li {
-  list-style-position: outside;
+ul.list{
+    margin-left: 20px;
+    color: black;
 }
